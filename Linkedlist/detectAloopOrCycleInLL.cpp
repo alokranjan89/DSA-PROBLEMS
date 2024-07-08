@@ -66,9 +66,5 @@ int main(){
 
     bool hasCycle = detectCycle(head);
     cout << "Cycle detected: " << (hasCycle ? "Yes" : "No") << endl;
-
-    return 0;
-
-
     return 0;
 }
